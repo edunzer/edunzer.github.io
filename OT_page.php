@@ -17,14 +17,14 @@ if(isset($_SESSION['username'])) {
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
 
-    <link href="cp_css1.css" rel="stylesheet">
-    <link href="cp_css2.css" rel="stylesheet">
-    <link href="cp_css3.css" rel="stylesheet">
-    <script src="cp_js1.js"></script>
-    <link href="rpsgv2_css_3.css" rel="stylesheet">
-    <link href="rpsgv2_css_2.css" rel="stylesheet">
-    <script src="rpsgv2_js.js"></script>
-    <link href="rpsgv2_css_1.css" rel="stylesheet">
+    <link href="css/cp_css1.css" rel="stylesheet">
+    <link href="css/cp_css2.css" rel="stylesheet">
+    <link href="css/cp_css3.css" rel="stylesheet">
+    <script src="js/cp_js1.js"></script>
+    <link href="css/rpsgv2_css_3.css" rel="stylesheet">
+    <link href="css/rpsgv2_css_2.css" rel="stylesheet">
+    <script src="js/rpsgv2_js.js"></script>
+    <link href="css/rpsgv2_css_1.css" rel="stylesheet">
 
   </head>
 
@@ -98,11 +98,11 @@ if(isset($_SESSION['username'])) {
       </div>
     </div>
 
-    <script src="cp_js2.js"></script>
+    <script src="js/cp_js2.js"></script>
     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
-    <script src="cp_js3.js"></script>
-    <script src="cp_js4.js"></script>
-    <script src="dropdown.js"></script>
+    <script src="js/cp_js3.js"></script>
+    <script src="js/cp_js4.js"></script>
+    <script src="js/dropdown.js"></script>
 
 
 </body></html>

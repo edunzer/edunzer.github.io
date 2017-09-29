@@ -17,10 +17,10 @@ if(isset($_SESSION['username'])) {
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
 
-    <link href="rpsgv2_css_3.css" rel="stylesheet">
-    <link href="rpsgv2_css_2.css" rel="stylesheet">
-    <script src="rpsgv2_js.js"></script>
-    <link href="rpsgv2_css_1.css" rel="stylesheet">
+    <link href="css/rpsgv2_css_3.css" rel="stylesheet">
+    <link href="css/rpsgv2_css_2.css" rel="stylesheet">
+    <script src="js/rpsgv2_js.js"></script>
+    <link href="css/rpsgv2_css_1.css" rel="stylesheet">
 
   </head>
 
@@ -33,7 +33,7 @@ if(isset($_SESSION['username'])) {
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img class="third-slide" src="gray-background-3.jpg" alt="Third slide">
+          <img class="third-slide" src="pic/gray-background-3.jpg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>INTERESTS</h1>
@@ -56,7 +56,7 @@ if(isset($_SESSION['username'])) {
           <p class="lead">The 1967 NOVA is by far the best designer car that someone can have. For most, old cars are something that should stay in the past but for me the nova is something that can be made practicle.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" alt="500x500" src="Picture20117.jpg" data-holder-rendered="true">
+          <img class="featurette-image img-responsive center-block" alt="500x500" src="pic/Picture20117.jpg" data-holder-rendered="true">
         </div>
       </div>
 
@@ -68,7 +68,7 @@ if(isset($_SESSION['username'])) {
           <p class="lead">Studio apartments are typically only one room, but the ideal apartment is one that has the style of the studio but with more than one room.</p>
         </div>
         <div class="col-md-5 col-md-pull-7">
-          <img class="featurette-image img-responsive center-block" alt="500x500" src="Stylish-Vancouver-apartment-with-a-trendy-living-space.jpg" data-holder-rendered="true">
+          <img class="featurette-image img-responsive center-block" alt="500x500" src="pic/Stylish-Vancouver-apartment-with-a-trendy-living-space.jpg" data-holder-rendered="true">
         </div>
       </div>
 
@@ -80,7 +80,7 @@ if(isset($_SESSION['username'])) {
           <p class="lead">Computer setups are much like apertemts, the clean and simple ones are the most functional. To have a good setup you have to have the modern feel with simplicity but still have the equipment that allows you to work.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" alt="500x500" src="maxresdefault.jpg" data-holder-rendered="true">
+          <img class="featurette-image img-responsive center-block" alt="500x500" src="pic/maxresdefault.jpg" data-holder-rendered="true">
         </div>
       </div>
 
@@ -92,7 +92,7 @@ if(isset($_SESSION['username'])) {
           <p class="lead">Nike Free is a minimalist running shoe. It was introduced in 2005 after Nike representatives observed Nike sponsored track athletes training barefoot. The numbering system indicates the cushioning of the shoe and follows a scale ranging from 0 to 10. </p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" alt="500x500" src="multicolor-nike-free-4-0-flyknit-04-900x599.jpg" data-holder-rendered="true">
+          <img class="featurette-image img-responsive center-block" alt="500x500" src="pic/multicolor-nike-free-4-0-flyknit-04-900x599.jpg" data-holder-rendered="true">
         </div>
       </div>
 
@@ -104,11 +104,11 @@ if(isset($_SESSION['username'])) {
     </div>
 
 
-    <script src="rpsgv2_js_2.js"></script>
-    <script src="rpsgv2_js_3.js"></script>
-    <script src="rpsgv2_js_4.js"></script>
-    <script src="rpsgv2_js_5.js"></script>
-    <script src="dropdown.js"></script>
+    <script src="js/rpsgv2_js_2.js"></script>
+    <script src="js/rpsgv2_js_3.js"></script>
+    <script src="js/rpsgv2_js_4.js"></script>
+    <script src="js/rpsgv2_js_5.js"></script>
+    <script src="js/dropdown.js"></script>
 
 
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500" preserveAspectRatio="none" style="display: none; visibility: hidden; position: absolute; top: -100%; left: -100%;"><defs><style type="text/css"></style></defs><text x="0" y="25" style="font-weight:bold;font-size:25pt;font-family:Arial, Helvetica, Open Sans, sans-serif">500x500</text></svg></body></html>

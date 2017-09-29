@@ -17,14 +17,14 @@ if(isset($_SESSION['username'])) {
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
 
-    <link href="cp_css1.css" rel="stylesheet">
-    <link href="cp_css2.css" rel="stylesheet">
-    <link href="cp_css3.css" rel="stylesheet">
-    <script src="cp_js1.js"></script>
-    <link href="rpsgv2_css_3.css" rel="stylesheet">
-    <link href="rpsgv2_css_2.css" rel="stylesheet">
-    <script src="rpsgv2_js.js"></script>
-    <link href="rpsgv2_css_1.css" rel="stylesheet">
+    <link href="css/cp_css1.css" rel="stylesheet">
+    <link href="css/cp_css2.css" rel="stylesheet">
+    <link href="css/cp_css3.css" rel="stylesheet">
+    <script src="js/cp_js1.js"></script>
+    <link href="css/rpsgv2_css_3.css" rel="stylesheet">
+    <link href="css/rpsgv2_css_2.css" rel="stylesheet">
+    <script src="js/rpsgv2_js.js"></script>
+    <link href="css/rpsgv2_css_1.css" rel="stylesheet">
 
   </head>
 
@@ -50,7 +50,7 @@ if(isset($_SESSION['username'])) {
           <p class="lead">For many people the amount of monitors you have depends on what games you play, and this is true, but 4 monitors are great from a productivity stand point. By having so much screen relistate I am able to edit 3 web pages at the same time. I'm actually doing this as I'm typing this paragraph.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" alt="500x500" src="IMG_9409.JPG" data-holder-rendered="true">
+          <img class="featurette-image img-responsive center-block" alt="500x500" src="pic/IMG_9409.JPG" data-holder-rendered="true">
         </div>
       </div>
 
@@ -81,16 +81,16 @@ if(isset($_SESSION['username'])) {
           <h2>Monitor Stand</h2>
           <p><dr class="text-danger">-Ergotech Triple Monitor TW Desk Stand </p>
           <p><a class="btn btn-default" href="http://shop.ergotechgroup.com/triple-monitor-stands-tw" role="button">Click to get product »</a></p>
-        </div>  
+        </div>
       </div>
     </div>
 
 
-    <script src="cp_js2.js"></script>
+    <script src="js/cp_js2.js"></script>
     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
-    <script src="cp_js3.js"></script>
-    <script src="cp_js4.js"></script>
-    <script src="dropdown.js"></script>
+    <script src="js/cp_js3.js"></script>
+    <script src="js/cp_js4.js"></script>
+    <script src="js/dropdown.js"></script>
 
 
 </body></html>
