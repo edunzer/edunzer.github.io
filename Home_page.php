@@ -33,7 +33,6 @@ if(isset($_SESSION['username'])) {
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img class="third-slide" src="simple-grey-wallpaper-8113.jpg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>WELCOME.</h1>

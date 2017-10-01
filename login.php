@@ -29,12 +29,10 @@ if(isset($_SESSION['username'])){
 <html>
 <head>
 	<title>User Login in</title>
-	<!-- Latest compiled and minified CSS -->
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >
-
-	<!-- Latest compiled and minified JavaScript -->
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" ></script>
-
+	<script src="js/js_1.js" ></script>
+	<link rel="stylesheet" href="css/css_3.css">
+	<link rel="stylesheet" href="css/css_1.css">
+	<link rel="stylesheet" href="css/css_2.css">
 	<link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
